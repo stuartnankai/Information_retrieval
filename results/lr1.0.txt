@@ -1,0 +1,63 @@
+###############
+##Chick-fil-A##
+###############
+#LexRank 1.0, no heuristics, poweriter, considering max 2 articles
+Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. The Chick-fil-A Peach Bowl is a college football bowl game played each year in Atlanta, Georgia. Chick-fil-A Kyle Petty Charity Ride Across America. The Chick-fil-A Kyle Petty Charity Ride Across America is an annual charity motorcycle tour to raise money for, among other charities, the Victory Junction Gang Camp for terminally ill children. The traditional "Peach Bowl" name was reinstated following the announcement that the bowl would be one of the six College Football Playoff bowls.
+
+#LexRank 1.0, no heuristics, poweriter, considering max 1 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. The Chick-fil-A Peach Bowl is a college football bowl game played each year in Atlanta, Georgia. The Chick-fil-A Kickoff Game is an annual early-season college football game played at the Georgia Dome in Atlanta, Georgia. Chick-fil-A Kyle Petty Charity Ride Across America.
+
+#LexRank 1.0, heuristics, poweriter, considering max 2 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+#LexRank 1.0, heuristics, poweriter, considering max 1 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 2 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 1 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+###################
+##Battle of Arawe##
+###################
+#LexRank 1.0, no heuristics, poweriter, considering max 2 articles
+1st Battalion, 141st Infantry Regiment (arrived 29 December). The Japanese force at Arawe suffered much heavier casualties than the Allies. B Company, 1st Tank Battalion USMC (arrived 12 January). The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. 2nd Battalion, 158th Infantry Regiment (force reserve).
+
+#LexRank 1.0, no heuristics, poweriter, considering max 1 articles
+The Japanese force at Arawe suffered much heavier casualties than the Allies. It was intended that PT boats operating from Arawe would disrupt Japanese barge traffic along the southern shore of New Britain and protect the Allied naval forces at Cape Gloucester from attack. Initial Allied goals for the landing at Arawe included securing a base for American PT boats and diverting Japanese forces away from Cape Gloucester. He did not believe that this would be the main Allied effort in western New Britain, however. The process of unloading ships at Arawe was hampered by air attacks and congestion on House Fireman Beach.
+
+#LexRank 1.0, heuristics, poweriter, considering max 2 articles
+This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943.
+
+#LexRank 1.0, heuristics, poweriter, considering max 1 articles
+The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. The Arawe landing was scheduled for 15 December as this was the earliest date by which the air bases around Nadzab in New Guinea, which were needed to support the landing, could be made operational.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 2 articles
+This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 1 articles
+The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. The Arawe landing was scheduled for 15 December as this was the earliest date by which the air bases around Nadzab in New Guinea, which were needed to support the landing, could be made operational.
+
+############################
+## Automatic summarization##
+############################
+#LexRank 1.0, no heuristics, poweriter, considering max 2 articles
+Examples of these include image collection summarization and video summarization. Image collection summarization is other application example of automatic summarization. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on. Other examples include document summarization, image collection summarization and video summarization. A promising line in document summarization is adaptive document/text summarization.
+
+#LexRank 1.0, no heuristics, poweriter, considering max 1 articles
+Examples of these include image collection summarization and video summarization. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on. Image collection summarization is other application example of automatic summarization. Other examples include document summarization, image collection summarization and video summarization. A promising line in document summarization is adaptive document/text summarization.
+
+#LexRank 1.0, heuristics, poweriter, considering max 2 articles
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extraction-based, abstraction-based, maximum entropy-based, and aided summarization. Automatic data summarization is part of machine learning and data mining. Sentence extraction is a technique used for automatic summarization of a text. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on.
+
+#LexRank 1.0, heuristics, poweriter, considering max 1 articles
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extraction-based, abstraction-based, maximum entropy-based, and aided summarization. Automatic data summarization is part of machine learning and data mining. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on. In this summarization task, the automatic system extracts objects from the entire collection, without modifying the objects themselves.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 2 articles
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extraction-based, abstraction-based, maximum entropy-based, and aided summarization. Automatic data summarization is part of machine learning and data mining. Sentence extraction is a technique used for automatic summarization of a text. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on.
+
+#LexRank 1.0, heuristics, montecarlo (3), considering max 1 articles
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extraction-based, abstraction-based, maximum entropy-based, and aided summarization. Automatic data summarization is part of machine learning and data mining. There are broadly two types of extractive summarization tasks depending on what the summarization program focuses on. In this summarization task, the automatic system extracts objects from the entire collection, without modifying the objects themselves.
+

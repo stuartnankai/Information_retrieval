@@ -1,0 +1,100 @@
+#####################
+##Battle of Arawe ##
+##Combination (multiplying position)
+BEST Ws qw=0.1
+[0.6923076923076923, 0.24603174603174602, 0.06557377049180328, 0.00847457627118644]
+The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. Initial Allied goals for the landing at Arawe included securing a base for American PT boats and diverting Japanese forces away from Cape Gloucester. Instead he assigned six boats stationed at Dreger Harbor in New Guinea and Kiriwina Island to operate along the south coast of New Britain east of Arawe each night and asked only for emergency refuelling facilities at Arawe.
+
+##Only position
+BEST Ws doesn't matter
+[0.6384615384615384, 0.2222222222222222, 0.06557377049180328, 0.00847457627118644]
+The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The battle formed part of the Allied Operation Cartwheel and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. In July 1942 the US Joint Chiefs of Staff directed that the main objective of the Allied forces in the South Pacific and Southwest Pacific area commands was to capture the major Japanese base at Rabaul on the eastern tip of New Britain. From August 1942 US and Australian forces conducted a series of offensives in New Guinea and the Solomon Islands with the goals of eliminating Japanese positions in the region and establishing air bases close to Rabaul. The Japanese military was expecting an Allied offensive in western New Britain and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943.
+
+##Heuristics combination (multiplying position)
+Battle of Arawe
+BEST Ws doesn't matter
+[0.6846153846153846, 0.2619047619047619, 0.07377049180327869, 0.00847457627118644]
+The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. Instead he assigned six boats stationed at Dreger Harbor in New Guinea and Kiriwina Island to operate along the south coast of New Britain east of Arawe each night and asked only for emergency refuelling facilities at Arawe. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The main body of the Director Task Force was to land at House Fireman Beach on the Arawe Peninsula at about dawn.
+
+##Only query weights
+BEST Ws doesn't matter
+[0.6846153846153846, 0.25396825396825395, 0.06557377049180328, 0.00847457627118644]
+This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. Japanese barges were also sighted near Arawe on 23 December. Detachments from other units were also assigned to the Arawe area. He arrived at the airstrip to the north of Arawe during the early hours of Christmas Day.
+
+##Combination (adding position with weight)
+BEST Ws qw=0.2 pw=0.05
+[0.7615384615384615, 0.3412698412698413, 0.09016393442622951, 0.01694915254237288]
+The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The Japanese military was expecting an Allied offensive in western New Britain and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. Instead he assigned six boats stationed at Dreger Harbor in New Guinea and Kiriwina Island to operate along the south coast of New Britain east of Arawe each night and asked only for emergency refuelling facilities at Arawe.
+
+##Heuristics combination (adding position)
+BEST Ws qw=0.2 pw=0.05
+[0.7230769230769231, 0.2619047619047619, 0.07377049180327869, 0.00847457627118644]
+The Battle of Arawe also known as Operation Director was fought between Allied and Japanese forces during the New Britain Campaign of World War II. This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The battle formed part of the Allied Operation Cartwheel and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. Instead he assigned six boats stationed at Dreger Harbor in New Guinea and Kiriwina Island to operate along the south coast of New Britain east of Arawe each night and asked only for emergency refuelling facilities at Arawe.
+
+#################
+## Chick-fil-A ##
+#################
+##Combination (multiplying position)
+BEST Ws 0.2 0.0
+[0.4375, 0.06593406593406594, 0.023255813953488372, 0.012345679012345678]
+ChickfilA selects the restaurant location and builds it ChickfilA franchisees need only a 5000 initial investment to become an operator. The ChickfilA Classic is a high school basketball tournament held in Columbia South Carolina. The ChickfilA Peach Bowl is a college football bowl game played each year in Atlanta Georgia. ChickfilA CHIKfilAY a play on the US pronunciation of fillet is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park Georgia specializing in chicken sandwiches. The first ChickfilA opened in 1967 in the food court of the Greenbriar Mall in a suburb of Atlanta.
+
+##Only position
+BEST Ws 0.0 0.05
+[0.6979166666666666, 0.27472527472527475, 0.10465116279069768, 0.037037037037037035]
+ChickfilA CHIKfilAY a play on the US pronunciation of fillet is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park Georgia specializing in chicken sandwiches. The chains origin can be traced to the Dwarf Grill now the Dwarf House a restaurant opened by S Truett Cathy the chains former Chairman and CEO in 1946. The restaurant is located in Hapeville Georgia a suburb of Atlanta and is near the location of the nowdemolished Ford Motor Company Atlanta Assembly Plant for many years a source of many of the restaurants patrons. In 1961 after 15 years in the fast food business Cathy found a pressurefryer that could cook the chicken sandwich in the same amount of time it took to cook a fastfood hamburger. Eat Mor Chikin is the chains most prominent advertising slogan created by The Richards Group in 1995.
+
+##Heuristics combination (multiplying position)
+BEST Ws 0.05 0.0
+[0.6145833333333334, 0.24175824175824176, 0.09302325581395349, 0.037037037037037035]
+ChickfilA selects the restaurant location and builds it ChickfilA franchisees need only a 5000 initial investment to become an operator. The ChickfilA Classic is a high school basketball tournament held in Columbia South Carolina. ChickfilA CHIKfilAY a play on the US pronunciation of fillet is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park Georgia specializing in chicken sandwiches. The first ChickfilA opened in 1967 in the food court of the Greenbriar Mall in a suburb of Atlanta. At the original ChickfilA Dwarf Grill in addition to the fullsize entrances there is also an extra smallsized front door.
+
+##Only query weights
+BEST Ws 0.05 0
+[0.625, 0.25274725274725274, 0.09302325581395349, 0.037037037037037035]
+ChickfilA selects the restaurant location and builds it ChickfilA franchisees need only a 5000 initial investment to become an operator. The statement provided by ChickfilA was posted on Huckabees website. In response to the controversy former Arkansas Governor Mike Huckabee initiated a ChickfilA Appreciation Day movement to counter a boycott of ChickfilA launched by samesex marriage activists. ChickfilA is the first quick service restaurant to set forth a plan and commit to serving only poultry raised without antibiotics. ChickfilA also can be found at universities hospitals and airports through licensing agreements.
+
+##Combination (adding position with weight)
+BEST Ws qw=0.25 pw=0.05
+[0.6041666666666666, 0.17582417582417584, 0.05813953488372093, 0.024691358024691357]
+ChickfilA selects the restaurant location and builds it ChickfilA franchisees need only a 5000 initial investment to become an operator. The ChickfilA Classic is a high school basketball tournament held in Columbia South Carolina. ChickfilA CHIKfilAY a play on the US pronunciation of fillet is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park Georgia specializing in chicken sandwiches. The first ChickfilA opened in 1967 in the food court of the Greenbriar Mall in a suburb of Atlanta. In February 2014 ChickfilA announced plans to serve chicken raised without antibiotics in its restaurants nationwide within five years.
+
+##Heuristics combination (adding position)
+BEST Ws 0.25 0.05
+0.6041666666666666
+[0.6041666666666666, 0.17582417582417584, 0.05813953488372093, 0.024691358024691357]
+ChickfilA selects the restaurant location and builds it ChickfilA franchisees need only a 5000 initial investment to become an operator. The ChickfilA Classic is a high school basketball tournament held in Columbia South Carolina. ChickfilA CHIKfilAY a play on the US pronunciation of fillet is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park Georgia specializing in chicken sandwiches. The first ChickfilA opened in 1967 in the food court of the Greenbriar Mall in a suburb of Atlanta. In February 2014 ChickfilA announced plans to serve chicken raised without antibiotics in its restaurants nationwide within five years.
+
+#############################
+## Automatic summarization ##
+#############################
+##Combination (multiplying position)
+BEST Ws 0.05 0.0
+[0.6216216216216216, 0.23529411764705882, 0.14516129032258066, 0.08928571428571429]
+Automatic data summarization is part of machine learning and data mining. Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization. Image collection summarization is other application example of automatic summarization. Other examples include document summarization image collection summarization and video summarization.
+
+##Only position
+BEST Ws 0 0.05
+[0.527027027027027, 0.25, 0.14516129032258066, 0.08928571428571429]
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Technologies that can make a coherent summary take into account variables such as length writing style and syntax. Automatic data summarization is part of machine learning and data mining. The main idea of summarization is to find a representative subset of the data which contains the information of the entire set. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization.
+
+##Heuristics combination (multiplying position)
+BEST Ws 0.05 0.0
+[0.527027027027027, 0.25, 0.14516129032258066, 0.08928571428571429]
+Automatic data summarization is part of machine learning and data mining. Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization. Image collection summarization is other application example of automatic summarization. Other examples include document summarization image collection summarization and video summarization.
+
+##Only query weights
+BEST Ws 0.05 0
+[0.527027027027027, 0.25, 0.14516129032258066, 0.08928571428571429]
+Image collection summarization is other application example of automatic summarization. Automatic data summarization is part of machine learning and data mining. Examples of these include image collection summarization and video summarization. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization. Sentence extraction is a technique used for automatic summarization of a text.
+
+##Combination (adding position with weight)
+BEST Ws qw=0.0 pw=0.05
+[0.6621621621621622, 0.25, 0.14516129032258066, 0.08928571428571429]
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Automatic data summarization is part of machine learning and data mining. Technologies that can make a coherent summary take into account variables such as length writing style and syntax. The main idea of summarization is to find a representative subset of the data which contains the information of the entire set. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization.
+
+##Heuristics combination (adding position)
+BEST Ws 0.0 0.05
+[0.527027027027027, 0.25, 0.14516129032258066, 0.08928571428571429]
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Technologies that can make a coherent summary take into account variables such as length writing style and syntax. Automatic data summarization is part of machine learning and data mining. The main idea of summarization is to find a representative subset of the data which contains the information of the entire set. The different types of automatic summarization include extractionbased abstractionbased maximum entropybased and aided summarization.
+

@@ -1,0 +1,9 @@
+var decryptCipher = function(AA) {
+  U = /[\s\S]/g
+
+  function II(c, i) {
+    return String.fromCharCode('kxfiqrhsntpjyueogvlmabzdcw'.charCodeAt(i % 26) ^ c.charCodeAt(0))
+  }
+
+  return AA.replace(U, II)
+}

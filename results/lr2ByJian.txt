@@ -1,0 +1,40 @@
+###############
+##Chick-fil-A##
+###############
+#LexRank 2.0, no heuristics, poweriter, considering max 2 articles
+
+The chick-fil-a peach bowl is a college football bowl game played each year in atlanta, georgia.
+The chick-fil-a classic is a high school basketball tournament held in columbia, south carolina.
+The original dwarf house in hapeville, georgia is open 24 hours a day, six days a week, except on sundays, thanksgiving and christmas.
+On august 1, chick-fil-a restaurants experienced a large show of public support across the nation with the company reporting record-breaking sales.
+The peach bowl, officially known as the chick-fil-a peach bowl for sponsorship purposes, is an annual college football bowl game played in atlanta, georgia since december 1968.
+
+
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+The chick-fil-a kickoff game is an annual early-season college football game played at the georgia dome in atlanta, georgia.
+Winshape has also contributed to christian groups including fellowship of christian athletes and exodus international, the latter noted for supporting ex-gay conversion therapy.
+The original dwarf house in hapeville, georgia is open 24 hours a day, six days a week, except on sundays, thanksgiving and christmas.
+The company continues to focus on the fair treatment of all of its customers and employees, but to end confusion gave me this statement.
+Since 1997, the atlanta-based company has been the title sponsor of the peach bowl, an annual college football bowl game played in atlanta on new year's eve.
+
+
+
+
+
+###################
+##Battle of Arawe##
+###################
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+Few raids were made against the arawe area after 90 mm anti-aircraft guns were established there on 1 february.
+The americans did not detect this withdrawal until 27 february, when an attack conducted by the 2nd squadron, 112th cavalry and the marine tank company to clear the arawe area of japanese encountered no opposition. The japanese lost two zeros in the day's air actions, but both pilots survived. The marines secured the airfields that were the main objective of the operation on 29 december against only light japanese opposition. The director task force launched its attack on 16 january.
+
+
+############################
+## Automatic summarization##
+############################
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+Other examples include document summarization, image collection summarization and video summarization. Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document.High-order n-gram rouge measures try to judge fluency to some degree. For example, automatic summarization research on medical text generally attempts to utilize the various sources of codified medical knowledge and ontologies. While some work has been done in abstractive summarization (creating an abstract synopsis like that of a human), the majority of summarization systems are extractive (selecting a subset of sentences to place in a summary).
+

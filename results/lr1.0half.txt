@@ -1,0 +1,39 @@
+## Chick-fil-A ##
+
+# LexRank 1.0, half heurstic, max 2 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The Peach Bowl, officially known as the Chick-fil-A Peach Bowl for sponsorship purposes, is an annual college football bowl game played in Atlanta, Georgia since December 1968.
+
+# LexRank 1.0, half heurstic, max 1 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+# only heuristics, max 2 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+# only heuristics, max 1 article6s
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic. Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+
+## Battle of Arawe ###
+# only heuristics, max 2 articles
+This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944. The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943.
+
+
+# only heuristics, max 1 articles
+The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943. The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force. The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943. The Arawe landing was scheduled for 15 December as this was the earliest date by which the air bases around Nadzab in New Guinea, which were needed to support the landing, could be made operational.
+
+
+## Scores
+only heuristics, 2 articles
+(288 , 0.172446499946) This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944
+(0 , 0.171117534604) The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II
+(1 , 0.0605158164632) The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943
+(3 , 0.0591988565165) The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force
+(2 , 0.0562571169342) The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943
+
+1.5*heuristics, 1*lexrank
+(288 , 0.264179497742) This is an order of battle listing the Allied and Japanese forces involved in the Battle of Arawe from 15 December 1943 to 24 February 1944
+(0 , 0.258348484034) The Battle of Arawe (also known as Operation Director) was fought between Allied and Japanese forces during the New Britain Campaign of World War II
+(2 , 0.0948202873675) The Japanese military was expecting an Allied offensive in western New Britain, and was reinforcing the region at the time of the Allied landing in the Arawe area on 15 December 1943
+(3 , 0.0932060830331) The Allies secured Arawe after about a month of intermittent fighting with the outnumbered Japanese force
+(1 , 0.092111470398) The battle formed part of the Allied Operation Cartwheel, and had the objective of serving as a diversion before a larger landing at Cape Gloucester in late December 1943
+

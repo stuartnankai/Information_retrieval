@@ -1,0 +1,56 @@
+###############
+##Chick-fil-A##
+###############
+#LexRank 2.0, no heuristics, poweriter, considering max 2 articles
+
+The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+Since 1997, the Atlanta-based company has been the title sponsor of the Peach Bowl, an annual college football bowl game played in Atlanta on New Year's Eve.
+The Chick-fil-A Peach Bowl is a college football bowl game played each year in Atlanta, Georgia.
+According to Chicago Alderman Proco "Joe" Moreno, Chick-fil-A has a statement of respect for all people regardless of sexual orientation in an internal document called Chick-fil-A: Who We Are.
+In February 2014, Chick-fil-A announced plans to serve chicken raised without antibiotics in its restaurants nationwide within five years.
+
+
+
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+Chick-fil-A (chik-fil-ay, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches.
+The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+It also has 31 drive-through-only locations.
+The Company has announced that it will open a three-story, 5,000-square-foot restaurant in Manhattan on October 3; this will become the largest free-standing Chick-fil-A in the country.
+According to Chicago Alderman Proco "Joe" Moreno, Chick-fil-A has a statement of respect for all people regardless of sexual orientation in an internal document called Chick-fil-A: Who We Are.
+
+
+
+###################
+##Battle of Arawe##
+###################
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+The Allied air forces began pre-invasion raids on western New Britain on 13 November.
+As "A" Troop had lost all of its weapons and other equipment during the landing attempt at Umtingalu, supplies were air-dropped into the beachhead during the afternoon of 16 December to re-equip the unit.
+He did not believe that this would be the main Allied effort in western New Britain, however.
+The 1st Battalion, 141st Infantry Regiment, stationed at Cape Bushing on the south coast of New Britain about 40 mi (64 km) east of Arawe was also directed to move by sea to counter the Allied invasion.
+A platoon from "C" Troop also made an unsuccessful patrol from the western end of the MLR during which it suffered six casualties from Japanese machine gun and rifle fire.
+
+
+
+############################
+## Automatic summarization##
+############################
+#LexRank 2.0, no heuristics, poweriter, considering max 2 articles
+
+We assume there are known keyphrases available for a set of training documents.
+The edges between sentences are based on some form of semantic similarity or content overlap.
+For example, in document summarization, one would like the summary to cover all important and relevant concepts in the document.
+Submodular Functions have also been used for other summarization tasks.
+Sentence extraction is a technique used for automatic summarization of a text.
+
+#LexRank 2.0, no heuristics, poweriter, considering max 1 articles
+
+Extractive methods work by selecting a subset of existing words, phrases, or sentences in the original text to form the summary.
+An example of a summarization problem is document summarization, which attempts to automatically produce an abstract from a given document.
+Image collection summarization is other application example of automatic summarization.
+For keyphrase extraction, it builds a graph using some set of text units as vertices.
+Submodular Functions have also been used for other summarization tasks.
+
+

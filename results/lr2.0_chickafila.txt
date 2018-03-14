@@ -1,0 +1,14 @@
+###############
+##Chick-fil-A##
+###############
+#LexRank 2.0, no heuristics, considering max 2 articles
+The tournament is co-sponsored by the Greater Columbia Educational Advancement Foundation (GCEAF), which provides scholarships to high school seniors in the greater Columbia area. Chick-fil-A Peach Bowl WinShape Marriage will continue to be supported financially, with a stated focus on couple retreats to strengthen marriages. Chick-fil-A Classic Chick-fil-A also is a key sponsor of the SEC and the ACC of college athletics.
+
+#LexRank 2.0, no heuristics, considering max 1 articles
+The tournament is co-sponsored by the Greater Columbia Educational Advancement Foundation (GCEAF), which provides scholarships to high school seniors in the greater Columbia area. Chick-fil-A Peach Bowl On August 1, Chick-fil-A restaurants experienced a large show of public support across the nation with the company reporting record-breaking sales. Chick-fil-A has donated over $5 million, via WinShape, to groups that oppose same-sex marriage. WinShape Marriage will continue to be supported financially, with a stated focus on couple retreats to strengthen marriages.
+
+#LexRank 2.0, heuristics, considering max 2 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.
+
+#LexRank 2.0, heuristics, considering max 1 articles
+Chick-fil-A retains ownership of each restaurant. Chick-fil-A selects the restaurant location and builds it Chick-fil-A franchisees need only a $5,000 initial investment to become an operator. Chick-fil-A Classic Chick-fil-A (CHIK-fil-AY, a play on the US pronunciation of "fillet") is an American quick service restaurant chain headquartered in the Atlanta suburb of College Park, Georgia, specializing in chicken sandwiches. The company's culture is influenced by its founder Truett Cathy's Southern Baptist beliefs; all Chick-fil-A restaurants are closed for business on Sunday as well as Thanksgiving and Christmas.

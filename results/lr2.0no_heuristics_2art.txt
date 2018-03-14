@@ -1,0 +1,11 @@
+#####################
+## Battle of Arawe ##
+#####################
+#LexRank 2.0, no heuristics, considering max 2 articles
+At about 5:25 am, the troop came under fire from machine guns, rifles and a 25 mm (0.98 in) cannon as it was nearing the shore, and all but three of its 15 rubber boats were sunk. Few raids were made against the Arawe area after 90 mm anti-aircraft guns were established there on 1 February. The Marine tanks and two companies of the 158th Infantry Regiment subsequently practiced tank-infantry cooperation from 13 to 15 January; during this period the 112th Cavalry continued to conduct patrols into Japanese-held areas. The Americans did not detect this withdrawal until 27 February, when an attack conducted by the 2nd Squadron, 112th Cavalry and the Marine tank company to clear the Arawe area of Japanese encountered no opposition. On 4 January, "G" Troop incurred three killed and 21 wounded in an unsuccessful attack on well-built Japanese positions.
+
+#LexRank 2.0, no heuristics, considering max 1 articles
+
+#LexRank 2.0, heuristics, considering max 2 articles
+
+#LexRank 2.0, heuristics, considering max 1 articles
